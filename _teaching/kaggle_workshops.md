@@ -5,14 +5,13 @@ type: "Workshops"
 venue: https://www.kaggle.com/
 permalink: /teaching/kaggle_workshops
 date: 2019/12/1
+
 ---
 
-These are a collection of all the workshops I've run at Kaggle, from July 2016 to December 2019.
-
-Practical Model Evaluation (with AutoML)
+Practical Model Evaluation
 ----------------------------------------
 
-How do you know which machine learning model  is going to work best for a specific problem? Learning how to evaluate machine learning models is an important part of the data science workflow. You'll need it for everything from picking your final submissions for a Kaggle competition to choosing which model your team should put into production.
+How do you know which machine learning model  is going to work best for a specific problem? Learning how to evaluate machine learning models is an important part of the data science workflow. You'll need it for everything from picking your final submissions for a Kaggle competition to choosing which model your team should put into production.
 
 We know how important model evaluation is, so we've put together a three-day workshop to walk you through the model evaluation process from start to finish. We'll go beyond just optimization metrics, though, and talk about factors for model selection relevant to working data scientists.
 
@@ -20,7 +19,7 @@ We know how important model evaluation is, so we've put together a three-day wor
 
 -   Day 2 Notebook: [Training models with automated machine learning](https://www.kaggle.com/rtatman/practical-model-evaluation-day-2)
 
--   Day 3 Notebook: [Evaluating our models](https://www.kaggle.com/rtatman/practical-model-evaluation-day-3)
+-   Day 3 Notok: [Evaluating our models](https://www.kaggle.com/rtatman/practical-model-evaluation-day-3)
 
 
 Utility Script Competition
@@ -31,9 +30,9 @@ As part of the [Utility Script Competition](https://www.kaggle.com/general/10965
 SQL Summer Camp
 ---------------
 
-As part of the SQL Summer Camp I wrote a workshop as an introduction to BigQuery ML. It is based on the [official documentation tutorial](https://cloud.google.com/bigquery/docs/bigqueryml-scientist-start). In this tutorial, you use the sample [Google Analytics sample dataset for BigQuery](https://support.google.com/analytics/answer/7586738?hl=en&ref_topic=3416089) to create a model that predicts whether a website visitor will make a transaction. For information on the schema of the Analytics dataset, see [BigQuery export schema](https://support.google.com/analytics/answer/3437719). 
+As part of the SQL Summer Camp I wrote a workshop as an introduction to BigQuery ML. It is based on the [official documentation tutorial](https://cloud.google.com/bigquery/docs/bigqueryml-scientist-start). In this tutorial, you use the sample [Google Analytics sample dataset for BigQuery](https://support.google.com/analytics/answer/7586738?hl=en&ref_topic=3416089) to create a model that predicts whether a website visitor will make a transaction. For information on the schema of the Analytics dataset, see [BigQuery export schema](https://support.google.com/analytics/answer/3437719). 
 
--   [BigQuery Machine Learning Tutorial ](https://www.kaggle.com/rtatman/bigquery-machine-learning-tutorial)
+-   [BigQuery Machine Learning Tutorial ](https://www.kaggle.com/rtatman/bigquery-machine-learning-tutorial)
 
 -   [Exercises](https://www.kaggle.com/rtatman/bigquery-machine-learning-exercise)
 
@@ -95,7 +94,7 @@ JupyterCon 2018 Workshops
 
 At JupyterCon 2018 I gave two workshops. You can find all my materials in these two notebooks:
 
--   [Reproducible research best practices (highlighting Kaggle Kernels)](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68323) 
+-   [Reproducible research best practices (highlighting Kaggle Kernels)](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68323) 
 
 -   [I Do, We Do, You Do: Supporting active learning with notebooks](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68277)
 
