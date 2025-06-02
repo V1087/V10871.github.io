@@ -21,46 +21,7 @@ We know how important model evaluation is, so we've put together a three-day wor
 -   Day 2 Notebook: [Training models with automated machine learning](https://www.kaggle.com/rtatman/practical-model-evaluation-day-2)
 
 -   Day 3 Notebook: [Evaluating our models](https://www.kaggle.com/rtatman/practical-model-evaluation-day-3)
--   <li class="activity activity-wrapper resource modtype_resource   indented" id="module-30282" data-for="cmitem" data-id="30282" data-indexed="true">
-                                                            <div class="activity-item focus-control " data-activityname="Lesson 1. Introduction. Purpose of Geotechnical Engineering (theoretical concepts)." data-region="activity-card">
-                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
-                                                                            <input id="cmCheckbox30282" type="checkbox" data-id="30282" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
-                                                                            <label class="sr-only" for="cmCheckbox30282">
-                                                                                Select activity Lesson 1. Introduction. Purpose of Geotechnical Engineering (theoretical concepts).
-                                                                            </label>
-                                                                        </div>
-
-                                                                    <div class="activity-grid ">
-                                                                    
-                                                                                                <div class="activity-icon activityiconcontainer smaller content  courseicon align-self-start me-2">
-                                                                                                    <img src="https://ocw.ehu.eus/theme/image.php/ehuplus/core/1741870525/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="30282" alt="">
-                                                                                                </div>
-                                                                                    
-                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
-                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
-                                                                                                <div class="activityname">
-                                                                                                                <a href="https://ocw.ehu.eus/mod/resource/view.php?id=30282" class=" aalink stretched-link" onclick="window.open('https://ocw.ehu.eus/mod/resource/view.php?id=30282&amp;redirect=1'); return false;">        <span class="instancename">Lesson 1. Introduction. Purpose of Geotechnical Engineering (theoretical concepts). <span class="accesshide "> File</span></span>    </a>
-                                                                                                            
-                                                                                                            <span class="ms-1">
-                                                                                                                <span class="activitybadge badge rounded-pill ">
-                                                                                                                        
-                                                                                                                </span>
-                                                                                                            </span>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    
-                                                                    </div>
-                                                            </div>
-                                                    </li>
+-  
 
 Utility Script Competition
 --------------------------
