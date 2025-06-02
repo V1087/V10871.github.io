@@ -21,7 +21,7 @@ We know how important model evaluation is, so we've put together a three-day wor
 -   Day 2 Notebook: [Training models with automated machine learning](https://www.kaggle.com/rtatman/practical-model-evaluation-day-2)
 
 -   Day 3 Notebook: [Evaluating our models](https://www.kaggle.com/rtatman/practical-model-evaluation-day-3)
--  
+
 
 Utility Script Competition
 --------------------------
