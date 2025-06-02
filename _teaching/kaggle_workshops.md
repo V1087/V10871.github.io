@@ -21,6 +21,12 @@ We know how important model evaluation is, so we've put together a three-day wor
 
 -   Day 3 Notok: [Evaluating our models](https://www.kaggle.com/rtatman/practical-model-evaluation-day-3)
 
+-   This challenge is in R and covers different topics from the earlier Python version of the Data Cleaning 5-Day Challenge so even if you did the last challenge, you'll discover some new tips and tricks! Here's what we'll be covering
+
+![](https://github.com/V1087/V10871.github.io/blob/master/assets/abcdefg.png)
+
+
+
 
 Utility Script Competition
 --------------------------
