@@ -15,7 +15,7 @@ How do you know which machine learning model  is going to work best for a specif
 
 We know how important model evaluation is, so we've put together a three-day workshop to walk you through the model evaluation process from start to finish. We'll go beyond just optimization metrics, though, and talk about factors for model selection relevant to working data scientists.
 
--   Day 1 Notebook: [Figuring out what matters for you][点击预览PDF文件](https://zepuli.oss-cn-beijing.aliyuncs.com/Elastoplastic-damaged%20meso-scale%20modelling%20of%20concrete%20with%20recycled%20aggregates.pdf){:target="_blank"}
+-   Day 1 Notebook: [Figuring out what matters for you]<a href="https://zepuli.oss-cn-beijing.aliyuncs.com/Elastoplastic-damaged%20meso-scale%20modelling%20of%20concrete%20with%20recycled%20aggregates.pdf" target="_blank">点击预览PDF文件</a>
 
 -   Day 2 Notebook: [Training models with automated machine learning](https://www.kaggle.com/rtatman/practical-model-evaluation-day-2)
 
