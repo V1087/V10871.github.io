@@ -3,6 +3,7 @@ title: "123456"
 collection: teaching
 type: "Handouts"
 venue: TA/RA Conference on Teaching, Learning and Research
+name: 123
 permalink: /teaching/active-learning-presenting-research
 date: 2014-08-01
 ---
