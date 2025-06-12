@@ -16,8 +16,7 @@ How do you know which machine learning model  is going to work best for a specif
 We know how important model evaluation is, so we've put together a three-day workshop to walk you through the model evaluation process from start to finish. We'll go beyond just optimization metrics, though, and talk about factors for model selection relevant to working data scientists.
 
 -   Day 1 Notebook: <a href="https://homepage-1347186408.cos.ap-guangzhou.myqcloud.com/Han%20_%202025%20_%20Study%20on%20the%20fracture%20performance%20and%20crack%20resistance%20mechanism%20of%20microfilament%20steel%20fiber%20reinfo.pdf" target="_blank">Figuring out what matters for you</a>
--   Day 2 Notebook: [Training models with automated machine learning](https://www.kaggle.com/rtatman/practical-model-evaluation-day-2)
-
+-   Day 2 Notebook: <a href="https://zengtao-blog-1347186408.cos.ap-beijing.myqcloud.com/homepage/Mechanical%20behavior%20and%20damage%20constitutive%20relationship%20of%20basalt%20brucite%20hybrid%20fiber%20reinforced%20low%20heat%20cement%20concrete.pdf" target="_blank">Figuring out what matters for you</a>
 -   Day 3 Notok: [Evaluating our models](https://www.kaggle.com/rtatman/practical-model-evaluation-day-3)
 
 -   This challenge is in R and covers different topics from the earlier Python version of the Data Cleaning 5-Day Challenge so even if you did the last challenge, you'll discover some new tips and tricks! Here's what we'll be covering
