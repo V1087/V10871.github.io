@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshops"
 venue: https://www.kaggle.com/
 permalink: /teaching/kaggle_workshops
-date: 2019/12/1
+date: 1895/12/1
 
 ---
 
